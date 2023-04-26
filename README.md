@@ -3,3 +3,8 @@ This is an application that encrypts texts, so you can exchange secret messages 
 
 <h2>Tools and Technologies</h2>
 
+JavaScript<br>
+HTML<br>
+CSS<br>
+Visual Studio Code
+
